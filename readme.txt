@@ -18,6 +18,9 @@ Comments with a date and time in the future will appear once the date and time o
 
 This can be useful to bulk import comments with [WP Ultimate CSV Importer](https://wordpress.org/plugins/wp-ultimate-csv-importer/) so that they appear on WordPress once their publishing date and time is reached.
 
+= Further Reading =
+You can access the description of the plugin in Spanish at: [Show Only Past Comments en castellano](http://apasionados.es/blog/mostrar-solo-comentarios-en-el-pasado-wordpress-plugin-6859/).
+
 == Installation ==
 
 1. Upload the `show_only_past_comments` folder to the `/wp-content/plugins/` directory (or to the directory where your WordPress plugins are located)
